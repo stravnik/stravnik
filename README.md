@@ -8,7 +8,7 @@ My best repos:
 - [black-mark - List of developers who are seen in the politicization of the OSS community](https://github.com/stravnik/black-mark)
 - [toxic-repos - We are against discrediting open source software](https://github.com/stravnik/toxic-repos)
 
-
+About me:
 - 🔭 Now I work for the reptilians
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on intersted projects
