@@ -2,7 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">DevOps & Security evangelist from Russia 🇷🇺</h3>
 
-![Stravnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=stravnik&show_icons=true&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stravnik&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stravnik&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stravnik&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stravnik&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stravnik&theme=dracula&utcOffset=8)
 
 My best repos:
 - [black-mark - List of developers who are seen in the politicization of the OSS community](https://github.com/stravnik/black-mark)
